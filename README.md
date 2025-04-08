@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD001 MD013 MD041 MD033 MD045 -->
 <h3 align="center">
-  <img src="http://github.com/elvxk/tracker.sandri.my.id/blob/main/public/android-chrome-192x192.png" alt="elvxk" width="200"><br>
+  <img src="https://raw.githubusercontent.com/elvxk/tracker.sandri.my.id/refs/heads/main/public/android-chrome-192x192.png" alt="elvxk" width="75"><br>
   <samp
     >&gt; <b>Finance Tracker</b
     >
