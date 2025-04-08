@@ -16,6 +16,8 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Finance Tracker",
+  description:
+    "A user-friendly web app to track your income and expenses, helping you manage your finances and budget with ease.",
 };
 
 export default function RootLayout({ children }) {
